@@ -1,0 +1,13 @@
+{
+  "id": "./",
+  "name": "Kelime Kutum - İngilizce Öğrenme",
+  "short_name": "Kelime Kutum",
+  "description": "Excel'den kelime aktar, quiz çöz ve çevrimdışı İngilizce çalış.",
+  "lang": "tr-TR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6fb",
+  "theme_color": "#2357d9",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
